@@ -1,0 +1,10 @@
+import Arthemetics as ma
+ma.add(2,3)
+ma.sub(3,3)
+ma.mult(9.5,9.5)
+print("remainder")
+ma.D_rem(200, 6)
+ma.D_quo(40, 2)
+ma.D_floor_quo(13, 4)
+ma.powersRp2Lp(9, 3)
+ma.QR(60, 6)
